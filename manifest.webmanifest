@@ -1,0 +1,27 @@
+{
+  "id": "/Smart-CDE/",
+  "name": "Smart CDE — Eletrônicos & Inovação",
+  "short_name": "Smart CDE",
+  "description": "Loja de eletrônicos Smart CDE, com produtos, ofertas e atendimento para Foz do Iguaçu e região.",
+  "lang": "pt-BR",
+  "start_url": "/Smart-CDE/",
+  "scope": "/Smart-CDE/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#07111f",
+  "background_color": "#f4f7fb",
+  "icons": [
+    {
+      "src": "/Smart-CDE/assets/smart-cde-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Smart-CDE/assets/smart-cde-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
